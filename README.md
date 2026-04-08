@@ -2,7 +2,7 @@
 
 # Operation One ESP
 
-A Serotonin script for a Operation One that draws ESP for players, cameras, drones, and bomb (+ defuser).
+A Serotonin script for Operation One that draws ESP for players, cameras, drones, and bomb (+ defuser).
 
 ---
 
